@@ -1,0 +1,21 @@
+{
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "semi": true,
+  "tabWidth": 4,
+  "useTabs": true,
+  "svelteSortOrder" : "options-scripts-markup-styles",
+  "svelteAllowShorthand": true,
+  "svelteStrictMode": false,
+  "svelteBracketNewLine": false,
+  "svelteIndentScriptAndStyle": true,
+  "overrides": [
+    {
+      "files": ["*.{ts,js}"],
+      "options": {
+        "printWidth": 144
+      }
+    }
+  ]
+}

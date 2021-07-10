@@ -1610,4 +1610,5 @@ export const POLYGON_TOKENS = [
 	{ id: 'the-graph', symbol: 'GRT', contract: '0x5fe2B58c013d7601147DcdD68C143A77499f5531' },
 	{ id: 'pickle-finance', symbol: 'PICKLE', contract: '0x2b88aD57897A8b496595925F43048301C37615Da' },
 	{ id: 'must', symbol: 'MUST', contract: '0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f' },
+	{ id: 'polycat-finance', symbol: 'FISH', contract: '0x3a3df212b7aa91aa0402b9035b098891d276572b' },
 ];
